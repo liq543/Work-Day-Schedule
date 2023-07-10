@@ -14,6 +14,8 @@ A simple and elegant daily planner application for scheduling your work day.
 
 The Work Day Scheduler is a daily planner application designed to make your work time management more effective. It allows you to save events for each hour of the day, specifically for standard business hours, i.e., from 9AM to 5PM. The events persist across browser sessions, so you don't lose your schedule upon refreshing or reopening the page. Time blocks are color-coded to indicate whether they represent past, present, or future times, offering a clear visual cue for your schedule.
 
+![Work-Day-Scheduler](https://i.imgur.com/QYZz5gR.png)
+
 ## Features
 
 1. Current day display at the top of the calendar.
